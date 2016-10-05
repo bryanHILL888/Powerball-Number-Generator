@@ -1,0 +1,5 @@
+G:\C# Files\Chapter 9\PowerBall\PowerBall\bin\Debug\PowerBall.exe
+G:\C# Files\Chapter 9\PowerBall\PowerBall\bin\Debug\PowerBall.pdb
+G:\C# Files\Chapter 9\PowerBall\PowerBall\obj\x86\Debug\PowerBall.exe
+G:\C# Files\Chapter 9\PowerBall\PowerBall\obj\x86\Debug\PowerBall.pdb
+G:\C# Files\Chapter 9\PowerBall\PowerBall\obj\x86\Debug\PowerBall.csprojResolveAssemblyReference.cache
